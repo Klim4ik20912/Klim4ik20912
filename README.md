@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%353358&lines=developer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9370db&lines=developer,+student)](https://git.io/typing-svg)
